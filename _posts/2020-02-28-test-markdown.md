@@ -13,9 +13,9 @@ comments: true
 Kaggle Datasets!!
 
 **What is your chance to be admmited to grad studies?**\
-[Predicting Graduate Admission](https://danielfurlan.github.io/aisite/graduate-admission.html)
+[Predicting Graduate Admission](https://danielfurlan.github.io/aisite/graduate-admission.html)\
 
-**Computer Vision**\
+**Computer Vision**<br />
 [Playing with MINST](https://danielfurlan.github.io/aisite/MINST2.html)
 
 **Is that star a Pulsar-Star?**\
