@@ -12,7 +12,7 @@ comments: true
 
 Kaggle Datasets!!
 
-[Predicting Graduate Addimission](https://github.com/danielfurlan/aisite/graduate-admission.html)
+[Predicting Graduate Addimission](https://danielfurlan/aisite/graduate-admission.html)
 
 
 
