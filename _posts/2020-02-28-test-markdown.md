@@ -13,7 +13,8 @@ Kaggle Datasets!!
 **What is your chance to be admmited to grad studies?**<br/>
 [Predicting Graduate Admission](https://danielfurlan.github.io/aisite/graduate-admission.html)
 
-**Computer Vision**  [Playing with MINST](https://danielfurlan.github.io/aisite/MINST2.html)
+**Computer Vision**<br/> 
+[Playing with MINST](https://danielfurlan.github.io/aisite/MINST2.html)
 
 **Is that star a Pulsar-Star?**<br/>
 [Pulsar-Stars](https://danielfurlan.github.io/aisite/predicting-pulsar-stars.html)
