@@ -9,8 +9,8 @@ comments: true
 ---
 
 Kaggle Datasets!!
-<br
-**What is your chance to be admmited to grad studies?**/>
+
+**What is your chance to be admmited to grad studies?**<br/>
 [Predicting Graduate Admission](https://danielfurlan.github.io/aisite/graduate-admission.html)
 
 **Computer Vision**<br
