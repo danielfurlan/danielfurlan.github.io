@@ -8,11 +8,11 @@ tags: [test]
 comments: true
 ---
 
-{% include graduate_admission.html %}
+
 
 Kaggle Datasets!!
 
-[Predicting Graduate Addimission](https://danielfurlan/aisite/graduate-admission.html)
+[Predicting Graduate Addimission](https://danielfurlan.github.io/aisite/graduate-admission.html)
 
 
 
