@@ -11,17 +11,17 @@ comments: true
 
 
 Kaggle Datasets!!
-
-**What is your chance to be admmited to grad studies?**\
+<br 
+**What is your chance to be admmited to grad studies?**/>
 [Predicting Graduate Admission](https://danielfurlan.github.io/aisite/graduate-admission.html)\
 
-**Computer Vision**<br />
-[Playing with MINST](https://danielfurlan.github.io/aisite/MINST2.html)
+**Computer Vision**<br
+[Playing with MINST](https://danielfurlan.github.io/aisite/MINST2.html) />
 
-**Is that star a Pulsar-Star?**\
+**Is that star a Pulsar-Star?**
 [Pulsar-Stars](https://danielfurlan.github.io/aisite/predicting-pulsar-stars.html)
 
-**Exploratory Data Analyses**\
+**Exploratory Data Analyses**
 [COVID EDA](https://danielfurlan.github.io/aisite/covid19.html)
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
