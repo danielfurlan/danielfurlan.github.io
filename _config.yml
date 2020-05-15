@@ -4,10 +4,10 @@
 title: Artificial Intelligence
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: What about AI?
 
 # Your name to show in the footer
-author: Some Person
+author: Daniel FM Furlan
 
 # --- List of links in the navigation bar --- #
 
@@ -38,8 +38,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
+  email: "danielfredmf@gmail.com"
+  facebook: Daniel Furlan
   github: daattali
   twitter: daattali
   rss: true
@@ -68,7 +68,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "danielfurlan.github.io"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
