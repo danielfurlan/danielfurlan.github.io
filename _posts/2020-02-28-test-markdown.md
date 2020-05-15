@@ -10,11 +10,19 @@ comments: true
 
 
 
-Kaggle Datasets!!
+Kaggle Datasets!!{: .mx-auto.d-block :}
 
-[Predicting Graduate Addimission](https://danielfurlan.github.io/aisite/graduate-admission.html)
+**What is your chance to be admmited to grad studies?**
+[Predicting Graduate Admission](https://danielfurlan.github.io/aisite/graduate-admission.html)
 
+**Computer Vision**
+[Playing with MINST](https://danielfurlan.github.io/aisite/MINST2.html)
 
+**Is that star a Pulsar-Star?**
+[Pulsar-Stars](https://danielfurlan.github.io/aisite/MINST2.html)
+
+**Exploratory Data Analyses**
+[COVID EDA](https://danielfurlan.github.io/aisite/MINST2.html)
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
